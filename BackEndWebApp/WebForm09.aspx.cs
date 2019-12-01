@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace BackEndWebApp
 {
-    public partial class SiteMaster : MasterPage
+    public partial class WebForm09 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

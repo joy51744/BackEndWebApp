@@ -10,7 +10,7 @@
 namespace BackEndWebApp {
     
     
-    public partial class Default {
+    public partial class WebForm02 {
         
         /// <summary>
         /// form1 控制項。
